@@ -1,4 +1,5 @@
-# Tic-Tac-ToeIntroduction:
+# Tic-Tac-Toe
+Introduction:
 Tic Tac Toe is a timeless game enjoyed by people of all ages. This project aims to recreate the classic Tic Tac Toe experience using modern web development technologies: HTML, CSS, and JavaScript. By leveraging dynamic HTML elements, CSS styling, and JavaScript logic, this implementation delivers an interactive and engaging gaming experience.
 
 HTML Structure:
